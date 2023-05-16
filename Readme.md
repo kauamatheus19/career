@@ -1,0 +1,1 @@
+Aqui vão ficar as instruções que auxiliarão os membros a entender o código e suas características.
